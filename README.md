@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=Miald-Mosadegh&style=for-the-badge&url=https://milad-mosadegh.github.io/My-Portfolio/#//)](https://milad-mosadegh.github.io/My-Portfolio/#/)
 
 
-<img  src="https://github.com/Milad-mosadegh/welcome/blob/main/image/banner.jpeg" width="100%" height="500px"/>
+<img  src="https://github.com/Milad-mosadegh/Milad-mosadegh/blob/main/image/banner.jpeg" />
 
 
 
